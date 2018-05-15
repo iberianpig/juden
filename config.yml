@@ -1,0 +1,4 @@
+threshold_percentage: 65
+interval_seconds: 600
+device_name: "XPS-13-9360"
+webhook_url: "https://maker.ifttt.com/trigger/battery_capacity/with/key/Q-3aLD6rdms_2j1wDMd2g"
