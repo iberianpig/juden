@@ -14,7 +14,7 @@ gem 'juden'
 
 And then execute:
 
-    $ bundle
+    $ juden
 
 Or install it yourself as:
 
